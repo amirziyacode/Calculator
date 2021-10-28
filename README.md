@@ -26,4 +26,4 @@ flutter run
 ## Screenshots
 
 ### Home Page
-<img src="file:///C:/Users/Administrator/Pictures/Screenshots/sshot-1.png" />
+<a href="https://uupload.ir/view/sshot-1_t4bq.png" target="_blank"><img src="https://s4.uupload.ir/files/sshot-1_t4bq_thumb.png" border="0" alt="آپلود عکس" /></a>
