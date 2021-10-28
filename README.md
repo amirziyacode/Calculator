@@ -1,4 +1,4 @@
-# [calculator]
+# calculator
 
 Simple modern calculator.
 
