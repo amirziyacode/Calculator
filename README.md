@@ -26,4 +26,4 @@ flutter run
 ## Screenshots
 
 ### Home Page
-<a href="https://uupload.ir/" target="_blank"><img src="https://s4.uupload.ir/files/sshot-1_t4bq.png" border="0" alt="آپلود عکس" /></a>
+![calculator](https://s4.uupload.ir/files/sshot-1_t4bq.png)
