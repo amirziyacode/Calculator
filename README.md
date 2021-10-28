@@ -1,6 +1,6 @@
 # calculator
 
-Simple calculator
+Simple modern calculator... 
 
 ## Getting Started
 
