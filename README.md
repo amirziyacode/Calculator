@@ -26,4 +26,4 @@ flutter run
 ## Screenshots
 
 ### App
-![App](https://s4.uupload.ir/files/sshot-1_t4bq.png?raw=true "Optional Title")
+![App](https://s4.uupload.ir/files/sshot-1_t4bq.png)
