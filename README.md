@@ -26,4 +26,4 @@ flutter run
 ## Screenshots
 
 ### Home Page
-<img src="assets/screenshots/select-file.png" />
+<img src="file:///C:/Users/Administrator/Pictures/Screenshots/sshot-1.png" />
